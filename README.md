@@ -4,7 +4,7 @@ EcoTwin AI is a complete, production-ready Carbon Footprint Awareness and Reduct
 
 ---
 
-## Why EcoTwin AI Is Different (Value Proposition)
+## Why EcoTwin AI Is Different
 
 > **The Innovation**: Traditional carbon trackers tell users what happened in the past. EcoTwin AI predicts what will happen in the future.
 > 
